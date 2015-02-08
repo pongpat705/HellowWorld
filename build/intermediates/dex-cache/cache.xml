@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\pre-dexed\debug\classes-9f74ed96519117bb4788715c78ba359c57fcf541.jar" />
+    </item>
+    <item
+        jar="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\pre-dexed\debug\classes-c35f30911f8fa90410987d1fcfe6ba50ef1cf58e.jar" />
+    </item>
+    <item
+        jar="C:\Users\jitsuem\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-bda0745fca4798a12f35ff047e3e20f90ecd8ed5.jar" />
+    </item>
+    <item
+        jar="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\pre-dexed\debug\classes-aa3b0568c35aa5901cddd7a6951d9830a41afaae.jar" />
+    </item>
+    <item
+        jar="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-6fc107a5b2c361774f4db6e868535ee7f29493ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\jitsuem\AndroidStudioProjects\HellowWorld\app\build\intermediates\pre-dexed\debug\classes-0d3f9653d83966cac4a8d7e0b9d42ed31bcf2e8f.jar" />
+    </item>
+
+</items>
