@@ -170,7 +170,7 @@ public class MapsActivity extends navigation_drawer implements GoogleMap.OnMapLo
      private void setUpMap() {
          mMap.addMarker(new MarkerOptions()
                  .position(new LatLng(13.6113456,100.759669))
-                 .title("มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ")
+                 .title("มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติอิอิ")
                  .snippet("Lat"+13.6113456+"Lng"+100.759669));
          mMap.setMyLocationEnabled(true);//สร้างปุ่ม
          mMap.getUiSettings().setCompassEnabled(false);
